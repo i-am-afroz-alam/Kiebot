@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment1</title>
+    <style>
+      .container {
+        background-color: white;
+        margin-top: 20px;
+        margin-left: 180px;
+        margin-right: 180px;
+      }
+
+      .img-container {
+        background-color: white;
+        margin: 40px;
+        display: flex;
+        justify-content: center;
+      }
+
+      h3 {
+        font-size: 23px;
+      }
+      p {
+        font-size: 20px;
+      }
+
+      /* .content-container{
+        display: flex;
+      } */
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="img-container">
+        <img src="Images/04PRE-jumbo.webp" alt="image1" height="300px" />
+      </div>
+      <div class="content-container">
+        <center>
+          <h1>
+            The Impact of Excessive Social Media Use on Future Aspirations and
+            Career Goals
+          </h1>
+        </center>
+        <h2>
+          In today’s digital age, social media has become an integral part of
+          our lives. While it offers numerous benefits, such as connecting
+          people across the globe and providing a platform for self-expression,
+          excessive use of social media can have significant implications for
+          our future aspirations and career goals.
+        </h2>
+        <h3>1. Distraction and Time Drain</h3>
+        <p>
+          Excessive social media consumption can lead to distraction. Scrolling
+          through endless feeds, watching videos, and engaging in online
+          discussions can consume valuable time that could otherwise be invested
+          in personal growth, skill development, or networking. As a result,
+          individuals may lose focus on their long-term goals.
+        </p>
+
+        <h3>2. Unrealistic Comparisons</h3>
+        <p>
+          Social media platforms often present curated versions of people’s
+          lives. Users showcase their achievements, vacations, and professional
+          milestones, creating an illusion of success. Constant exposure to
+          these idealized images can lead to unrealistic comparisons. Aspiring
+          professionals may feel inadequate if their progress doesn’t match the
+          seemingly perfect lives portrayed online.
+        </p>
+
+        <h3>3. Impact on Self-Esteem</h3>
+        <p>
+          Likes, comments, and follower counts have become metrics of
+          validation. Excessive reliance on social media for self-worth can
+          negatively impact self-esteem. The pursuit of external validation may
+          overshadow intrinsic motivation and genuine passion for one’s chosen
+          career path.
+        </p>
+
+        <h3>4. Networking vs. Networking</h3>
+        <p>
+          Social media offers networking opportunities, but it’s essential to
+          differentiate between productive networking and aimless scrolling.
+          While connecting with professionals and industry experts can enhance
+          career prospects, mindless browsing may hinder meaningful
+          interactions.
+        </p>
+
+        <h3>5. Privacy Concerns</h3>
+        <p>
+          Sharing personal information online can have unintended consequences.
+          Employers increasingly check candidates’ social media profiles during
+          recruitment. Inappropriate posts, controversial opinions, or
+          unprofessional behavior can harm future job prospects.
+        </p>
+
+        <h3>Conclusion</h3>
+        <p>
+          While social media can be a powerful tool, its impact on future
+          aspirations and career goals depends on how we use it. Being mindful
+          of our online behavior, focusing on self-improvement, and maintaining
+          a healthy balance are key to harnessing the positive aspects of social
+          media while avoiding its pitfalls
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
