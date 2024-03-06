@@ -1,0 +1,51 @@
+
+h2{
+    font-family: cursive;
+}
+
+
+.card-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-img-top{
+    width: 284px;
+    height: 284px;
+}
+
+.card-title{
+    height: 85px;
+}
+.item-containers{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.navbar-container{
+    height: 40px;
+    
+}
+.carousel-container{
+    width: 100%;
+    height: 28vh;
+   
+    background-color: white;
+    margin-top: 32px;
+    /* background-size: cover; */
+}
+.my-card{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.my-card:hover{
+    transition: 0.4s all ease;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body{
+    background-image: linear-gradient(to top right,#BFF098,#6FD6FF);
+}
+.my-footer{
+    background-image: linear-gradient(to top right,#BFF098,#6FD6FF);
+}
+
